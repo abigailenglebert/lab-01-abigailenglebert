@@ -292,6 +292,9 @@ In this case, calculating a correlation coefficient really doesn't make sense si
 
 But, for illustrative purposes, let's calculate the correlation coefficient between `x` and `y`.
 
+The correlation coefficient is **-0.06447185**.
+
+
 ```{marginfigure}
 Start with `dino_data` and calculate a summary statistic that we will call `r` as the `cor`relation between `x` and `y`.
 ```
